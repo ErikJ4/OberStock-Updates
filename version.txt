@@ -1,1 +1,1 @@
-0.6.1
+{"version": "0.0.5", "url": "enlace_al_exe_o_zip"}
