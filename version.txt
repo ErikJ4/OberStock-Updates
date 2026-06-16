@@ -1,1 +1,1 @@
-{"version": "0.7.5", "url": "https://github.com/ErikJ4/OberStock-Updates/releases/latest/download/OberStock.zip"}
+{"version": "0.7.6", "url": "https://github.com/ErikJ4/OberStock-Updates/releases/latest/download/OberStock.zip"}
